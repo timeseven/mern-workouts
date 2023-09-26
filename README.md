@@ -25,7 +25,7 @@ This is a full-stack workout application that allows users to display workouts, 
 
 7. Install frontend dependencies: `npm install`
 
-8. Start the client: `npm start`
+8. Start the frontend: `npm start`
 
 ## Usage
 
