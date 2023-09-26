@@ -1,4 +1,4 @@
-# MERN Stack - Instagram MERN typescript
+# MERN Stack - Workout Routine
 
 This is a full-stack workout application that allows users to display workouts, create workouts and delete workouts.
 
